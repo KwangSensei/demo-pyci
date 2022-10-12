@@ -9,8 +9,8 @@
 # make clean - remove python cache files
 
 # Set PYTHON to the name of your python command (python or python3)
-PYTHON=python3
-LINTER=flake8
+PYTHON = python3
+LINTER = flake8
 
 # Let Python unittest module find and run tests itself
 test:
